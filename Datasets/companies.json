@@ -1,0 +1,43 @@
+{
+"companies": [
+	{
+		"id" : 1,
+		"company_status_id" : null,
+		"name" : "My Company",
+		"king_person" : null,
+		"document" : null,
+		"contact" : null,
+		"phone" : null,
+		"cell_phone" : null,
+		"email" : null,
+		"zipcode" : "0",
+		"address" : null,
+		"number" : null,
+		"district" : null,
+		"city" : null,
+		"state" : null,
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	},
+	{
+		"id" : 2,
+		"company_status_id" : null,
+		"name" : "Your Company",
+		"king_person" : null,
+		"document" : null,
+		"contact" : null,
+		"phone" : null,
+		"cell_phone" : null,
+		"email" : null,
+		"zipcode" : "0",
+		"address" : null,
+		"number" : null,
+		"district" : null,
+		"city" : null,
+		"state" : null,
+		"created_at" : null,
+		"updated_at" : null,
+		"deleted_at" : null
+	}
+]}
